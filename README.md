@@ -5,6 +5,9 @@ Developed by Daksh Pratap Singh
 
 🚀 Project Overview
 
+Some Glimpses--
+
+
 ChemistryLab Online is a virtual platform that simulates real-world chemistry experiments.
 It enables students and educators to perform, visualize, and understand lab activities safely and interactively — anytime, anywhere.
 
